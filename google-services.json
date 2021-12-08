@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "197497398975",
+    "firebase_url": "https://tokoonlinesederhana-a6937-default-rtdb.firebaseio.com",
+    "project_id": "tokoonlinesederhana-a6937",
+    "storage_bucket": "tokoonlinesederhana-a6937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197497398975:android:45af72569e46f8f4a3080a",
+        "android_client_info": {
+          "package_name": "com.tokoOnlineMobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197497398975-uk5j08g5r2avttk78c59ofdlsln5gugv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChs4p2OV10b9E5X7pBJOwVLzpPB9x6Mgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197497398975-uk5j08g5r2avttk78c59ofdlsln5gugv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
